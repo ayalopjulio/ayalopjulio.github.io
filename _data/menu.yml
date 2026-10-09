@@ -1,5 +1,8 @@
-- title: About
+- title: About me
   url: /about.html
+
+- title: Publications
+  url: /publications.html
 
 - title: Github
   url: https://github.com/ayalopjulio
