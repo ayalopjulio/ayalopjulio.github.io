@@ -1,0 +1,15 @@
+.masthead-particles {
+  display: block;
+  width: 100%;
+  height: 700px;
+  pointer-events: none;
+
+  // fade the top and bottom edges so it melts into the page
+  //-webkit-mask-image: linear-gradient(to bottom, transparent, #000 15%, #000 85%, transparent);
+  //mask-image: linear-gradient(to bottom, transparent, #000 15%, #000 85%, transparent);
+
+  @media (min-width: $on-tablet) {
+    height: 900px;
+  }
+}
+
